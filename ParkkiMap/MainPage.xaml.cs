@@ -45,9 +45,6 @@ namespace ParkkiMap
             // this event is handled for you.
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
+  
     }
 }
